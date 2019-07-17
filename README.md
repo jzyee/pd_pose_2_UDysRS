@@ -8,8 +8,8 @@ This repo will act as my testing bed. The goal of this project is to convert lim
 
 convert right wrist position data to spectrograms and classify the spectrograms in to UDysRS ratings
 
-experiment file: experiment_1/PD_VGG.ipynb (viewable on colab)
-requirements file: experiment_1/requirement.txt
+- experiment file: experiment_1/PD_VGG.ipynb (viewable on colab)
+- requirements file: experiment_1/requirement.txt
 
 2nd experiment
 ----------------------
