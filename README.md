@@ -1,4 +1,4 @@
-# pd_pose_2_UDysRS]
+# pd_pose_2_UDysRS
 
 
 This repo will act as my testing bed. The goal of this project is to convert limb position data retrieved from pose estimation and convert that to UDysRS classes for each limb. 
