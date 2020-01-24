@@ -11,7 +11,9 @@ convert right wrist position data to spectrograms and classify the spectrograms 
 - experiment file: experiment_1/PD_VGG.ipynb (viewable on colab)
 - requirements file: experiment_1/requirements.txt
 
-2nd experiment
+next step: dataset augmentation to increase dataset size
+
+2nd experiment(to be done)
 ----------------------
 
 The data for each experiment trial (such as communication, drinking) contains the positon data for each limb. 
